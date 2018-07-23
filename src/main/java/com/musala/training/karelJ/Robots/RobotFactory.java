@@ -14,13 +14,13 @@ public class RobotFactory {
      * @param figure - figure type
      * @return ан instance of a robot who can draw the required figure
      */
-    public static AbstractRobot getRobot(String figure) {
+    public static AbstractRobot getRobot(RobotEnum figure) {
         switch (figure) {
-            case "Square":
+            case SQUARE:
                 return new SquareRobot(2, 2, Directions.East, 25);
-            case "Rhombus":
+            case RHOMBUS:
                 return new RhombusRobot(2, 2, Directions.East, 25);
-            case "Rectangle":
+            case RECTANGLE:
                 return new RectangleRobot(2, 2, Directions.East, 25);
             default:
                 throw new IllegalArgumentException("There is no robot which can draw :" + figure);

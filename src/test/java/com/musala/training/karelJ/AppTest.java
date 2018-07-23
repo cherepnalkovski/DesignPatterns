@@ -5,7 +5,6 @@ import com.musala.training.karelJ.Shapes.Rectangle;
 import com.musala.training.karelJ.Shapes.Rhombus;
 import com.musala.training.karelJ.Shapes.Square;
 import kareltherobot.KJRTest;
-import kareltherobot.MiniBuilder;
 import kareltherobot.World;
 import org.junit.Assert;
 import org.junit.Before;
@@ -25,13 +24,12 @@ public class AppTest extends KJRTest {
         World.setDelay(10);
         World.setTrace(false);
         World.setVisible(true);
-        new MiniBuilder(false);
     }
 
     @Test
     public void testSquare() {
         Square square = new Square(4);
-        AbstractRobot robot = RobotFactory.getRobot("Square");
+        AbstractRobot robot = RobotFactory.getRobot(RobotEnum.SQUARE);
         Assert.assertThat(robot, instanceOf(SquareRobot.class));
         robot.draw(square);
         assertFacingEast(robot);
@@ -49,7 +47,7 @@ public class AppTest extends KJRTest {
     @Test
     public void testRectangle() {
         Rectangle rectangle = new Rectangle(3, 4);
-        AbstractRobot robot = RobotFactory.getRobot("Rectangle");
+        AbstractRobot robot = RobotFactory.getRobot(RobotEnum.RECTANGLE);
         Assert.assertThat(robot, instanceOf(RectangleRobot.class));
         robot.draw(rectangle);
         assertFacingEast(robot);
@@ -67,7 +65,7 @@ public class AppTest extends KJRTest {
     @Test
     public void testRhombus() {
         Rhombus rhombus = new Rhombus(4, 6);
-        AbstractRobot robot = RobotFactory.getRobot("Rhombus");
+        AbstractRobot robot = RobotFactory.getRobot(RobotEnum.RHOMBUS);
         Assert.assertThat(robot, instanceOf(RhombusRobot.class));
         robot.draw(rhombus);
         assertFacingEast(robot);
