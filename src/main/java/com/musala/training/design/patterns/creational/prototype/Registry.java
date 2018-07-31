@@ -24,7 +24,7 @@ public class Registry {
 
     public void loadItems() {
         Movie movie = new Movie();
-        movie.setRuntime("Basic Movie");
+        movie.setTitle("Basic Movie");
         movie.setPrioe(24.99);
         movie.setRuntime("2 hours");
         items.put("Movie", movie);

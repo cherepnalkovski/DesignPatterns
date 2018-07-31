@@ -1,5 +1,8 @@
 package com.musala.training.design.patterns.creational.prototype;
 
+import java.util.Arrays;
+import java.util.List;
+
 public class PrototypeDemo {
     public static void main(String argsp[]) {
         Registry registry = new Registry();
@@ -18,5 +21,8 @@ public class PrototypeDemo {
         System.out.println(anotherMovie.getRuntime());
         System.out.println(anotherMovie.getUrl());
         System.out.println(anotherMovie.getTitle());
+
+        Integer[] a = new Integer[] { 1 , 2 , 3 } ;
+        List<Integer> list = Arrays.asList(a);
     }
 }
