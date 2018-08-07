@@ -1,4 +1,4 @@
-package com.musala.training.karelJ.Shapes;
+package com.musala.training.design.patterns.karelJ.Shapes;
 
 /**
  * Abstract class used to store common properties for all figures.

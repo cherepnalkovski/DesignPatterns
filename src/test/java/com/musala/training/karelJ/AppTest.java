@@ -1,9 +1,9 @@
 package com.musala.training.karelJ;
 
-import com.musala.training.karelJ.Robots.*;
-import com.musala.training.karelJ.Shapes.Rectangle;
-import com.musala.training.karelJ.Shapes.Rhombus;
-import com.musala.training.karelJ.Shapes.Square;
+import com.musala.training.design.patterns.karelJ.Robots.*;
+import com.musala.training.design.patterns.karelJ.Shapes.Rectangle;
+import com.musala.training.design.patterns.karelJ.Shapes.Rhombus;
+import com.musala.training.design.patterns.karelJ.Shapes.Square;
 import kareltherobot.KJRTest;
 import kareltherobot.World;
 import org.junit.Assert;

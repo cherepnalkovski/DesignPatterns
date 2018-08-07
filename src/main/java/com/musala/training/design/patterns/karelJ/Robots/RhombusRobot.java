@@ -1,7 +1,7 @@
-package com.musala.training.karelJ.Robots;
+package com.musala.training.design.patterns.karelJ.Robots;
 
-import com.musala.training.karelJ.Shapes.Figure;
-import com.musala.training.karelJ.Shapes.Rhombus;
+import com.musala.training.design.patterns.karelJ.Shapes.Figure;
+import com.musala.training.design.patterns.karelJ.Shapes.Rhombus;
 
 /**
  * This is variant of a Robot that can draw only {@link Rhombus}.

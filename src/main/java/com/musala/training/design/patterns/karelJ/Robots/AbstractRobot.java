@@ -1,6 +1,6 @@
-package com.musala.training.karelJ.Robots;
+package com.musala.training.design.patterns.karelJ.Robots;
 
-import com.musala.training.karelJ.Shapes.Figure;
+import com.musala.training.design.patterns.karelJ.Shapes.Figure;
 import kareltherobot.UrRobot;
 
 /**

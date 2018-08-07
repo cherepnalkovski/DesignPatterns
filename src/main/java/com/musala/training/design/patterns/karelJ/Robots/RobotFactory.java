@@ -1,4 +1,4 @@
-package com.musala.training.karelJ.Robots;
+package com.musala.training.design.patterns.karelJ.Robots;
 
 import kareltherobot.Directions;
 

@@ -1,4 +1,4 @@
-package com.musala.training.karelJ.Shapes;
+package com.musala.training.design.patterns.karelJ.Shapes;
 
 /**
  * Class used to store only specific properties of a Rectangle object.

@@ -1,7 +1,7 @@
-package com.musala.training.karelJ.Robots;
+package com.musala.training.design.patterns.karelJ.Robots;
 
-import com.musala.training.karelJ.Shapes.Figure;
-import com.musala.training.karelJ.Shapes.Square;
+import com.musala.training.design.patterns.karelJ.Shapes.Figure;
+import com.musala.training.design.patterns.karelJ.Shapes.Square;
 
 /**
  * This is variant of a Robot that can draw only {@link Square}.
