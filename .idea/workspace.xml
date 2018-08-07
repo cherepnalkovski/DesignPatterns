@@ -2,122 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e0a5f43-1ec2-4e2b-940c-d383dbd65a55" name="Default" comment="Second practice : KarelJ&#10;Create a factory that can produce diferent types of robots. Each robot can drow a certain type of figure (Square, Rectangle, Rhombus). All robots should have a common action that is called draw and accepts single parameter - Figure.">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_twitter4j_twitter4j_core_4_0_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/chain/of/responsibility/CEO.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/chain/of/responsibility/ChainOfResponsibilityDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/chain/of/responsibility/Director.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/chain/of/responsibility/Handler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/chain/of/responsibility/Request.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/chain/of/responsibility/RequestType.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/chain/of/responsibility/VP.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/command/CommandDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/command/command/AllDevicesCommand.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/command/command/AllLightsCommand.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/command/command/Command.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/command/command/ToggleCommand.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/command/command/ToggleFanCommand.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/command/invoker/Switch.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/command/receiver/Device.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/command/receiver/Fan.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/command/receiver/Light.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/interpreter/AndExpression.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/interpreter/Expression.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/interpreter/InterpreterDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/interpreter/OrExpression.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/interpreter/TerminalExpression.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/iterator/IteratorDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/adapter/AdapterDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/bridge/bridge1/Blue.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/bridge/bridge1/Color.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/bridge/bridge1/Green.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/bridge/bridge1/Red.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/bridge/bridge1/Shape1BrideDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/bridge/bridge2/Book.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/bridge/bridge2/BookPrinter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/bridge/bridge2/BridgeDemo2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/bridge/bridge2/Detail.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/bridge/bridge2/Formatter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/bridge/bridge2/HTMLFormatter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/bridge/bridge2/MoviePrinter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/bridge/bridge2/PrintFormatter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/bridge/bridge2/Printer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/composite/Menu.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/composite/MenuComponent.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/composite/MenuItem.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/composite/compositeMenuDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/decorator/DecoratorEverydayCemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/decorator/DecoratorSandwichDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/decorator/DressingDecorator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/decorator/MeatDecorator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/decorator/Sandwich.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/decorator/SandwichDecorator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/decorator/SimpleSandwich.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/facade/Address.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/facade/FacadeGoodDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/facade/JdbcFacade.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/flyweight/Catalog.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/flyweight/InventorySystem.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/flyweight/Item.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/flyweight/Order.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/proxy/ITwitterService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/proxy/SecurityProxy.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/proxy/TwitterDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/proxy/TwitterExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/proxy/TwitterServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/proxy/TwitterServiceStub.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/iterator/BikeRepository.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/mediator/Mediator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/mediator/MediatorDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/mediator/TurnOffAllLightsCommand.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/mediator/TurnOnAllLightsCommand.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/memento/CareTaker.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/memento/Employee.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/memento/EmployeeMemento.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/memento/MementoDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/observer/MessageStream.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/observer/Observer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/observer/ObserverDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/observer/PhoneClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/observer/Subject.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/observer/TabletClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/Fan.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/FanLowState.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/FanMedState.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/FanOffState.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/State.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/StateDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/strategy/StrategyDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/template/TemplateDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/visitor/VisitorDemo.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/KarelJRobot.iml" afterPath="$PROJECT_DIR$/KarelJRobot.iml" />
-      <change beforePath="$PROJECT_DIR$/derby.log" afterPath="$PROJECT_DIR$/derby.log" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/creational/prototype/PrototypeDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/creational/prototype/PrototypeDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/creational/prototype/Registry.java" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/creational/prototype/Registry.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/test.java" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/flyweight/flyweightDemo.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/musala/training/karelJ/Lambda/Streams/Lambdas.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/musala/training/karelJ/Lambda/Streams/Streams.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/abstractFactory/AbstractFactoryDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/abstractFactory/AmexFactory$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/abstractFactory/AmexFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/abstractFactory/AmexGoldCreditCard.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/abstractFactory/AmexGoldValidator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/abstractFactory/AmexPlatiniumCreditCard.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/abstractFactory/AmexPlatiniumValidator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/abstractFactory/CardType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/abstractFactory/CreditCard.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/abstractFactory/CreditCardFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/abstractFactory/Validator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/abstractFactory/VisaBlackCreditCard.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/abstractFactory/VisaBlackValidator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/abstractFactory/VisaFactory$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/abstractFactory/VisaFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/abstractFactory/VisaGoldCreditCard.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/abstractFactory/VisaGoldValidator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/abstractFactory/VisaValidator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/builder/BuilderDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/builder/Person$Builder.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/builder/Person.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/factory/FactoryDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/factory/Page.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/factory/WebSite.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/factory/WebSiteFactory$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/factory/WebSiteFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/factory/WebSiteType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/factory/blogPages/AboutPage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/factory/blogPages/Blog.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/factory/blogPages/CommentPage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/factory/blogPages/ContactPage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/factory/blogPages/PostPage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/factory/shopPages/CartPage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/factory/shopPages/EShop.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/factory/shopPages/ItemPage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/factory/shopPages/SearchPage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/prototype/Book.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/prototype/Item.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/prototype/Movie.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/prototype/PrototypeDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/prototype/Registry.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/singleton/Singleton.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/creational/singleton/SingletonDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/patterns/structural/test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/iterator/IteratorDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/iterator/IteratorDemo.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/musala/training/design/patterns/behavioral/command/AllDevicesCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/musala/training/design/patterns/behavioral/command/AllLightsCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/musala/training/design/patterns/behavioral/command/Command.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/musala/training/design/patterns/behavioral/command/CommandDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/musala/training/design/patterns/behavioral/command/CommandDemo.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/musala/training/design/patterns/behavioral/command/Device.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/musala/training/design/patterns/behavioral/command/Fan.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/musala/training/design/patterns/behavioral/command/Light.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/musala/training/design/patterns/behavioral/command/OnCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/musala/training/design/patterns/behavioral/command/Switch.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/musala/training/design/patterns/behavioral/command/ToggleCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/musala/training/design/patterns/behavioral/command/ToggleFanCommand.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -135,60 +56,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="InterpreterDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/interpreter/InterpreterDemo.java">
+      <file leaf-file-name="State.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/State.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-              <folding />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IteratorDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/iterator/IteratorDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Device.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/command/receiver/Device.java">
+      <file leaf-file-name="Fan.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/Fan.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <caret line="32" column="27" lean-forward="false" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
               <folding>
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#473#474#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#587#588#0" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#659#660#0" expanded="true" />
+                <element signature="e#696#697#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#767#768#0" expanded="true" />
+                <element signature="e#801#802#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrExpression.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/interpreter/OrExpression.java">
+      <file leaf-file-name="StateDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/StateDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="323">
+              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FanMedState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/FanMedState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
               <folding>
-                <element signature="e#379#380#0" expanded="true" />
-                <element signature="e#454#455#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TerminalExpression.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/interpreter/TerminalExpression.java">
+      <file leaf-file-name="FanLowState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/FanLowState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+            <state relative-caret-position="204">
+              <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
               <folding>
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FanOffState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/FanOffState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+              <folding>
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -226,29 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/decorator/SimpleSandwich.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/decorator/SandwichDecorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/decorator/MeatDecorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/decorator/DressingDecorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/decorator/DecoratorSandwichDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/facade/facade.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/facade/facadeBadDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/facade/Address.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/facade/JdbcFacade.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/facade/FacadeGoodDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/flyweight/flyweight.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/flyweight/Item.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/flyweight/order.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/flyweight/Order.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/flyweight/InventorySystem.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/flyweight/flyweightDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/flyweight/Catalog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/proxy/ITwitterService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/proxy/TwitterServiceStub.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/proxy/TwitterServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/proxy/SecurityProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/proxy/TwitterDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/chain/of/responsibility/Handler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/chain/of/responsibility/RequestType.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/chain/of/responsibility/Request.java" />
@@ -277,6 +207,29 @@
         <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/interpreter/OrExpression.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/interpreter/AndExpression.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/interpreter/InterpreterDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/iterator/IteratorDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/iterator/BikeRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/mediator/TurnOnAllLightsCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/mediator/TurnOffAllLightsCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/mediator/Mediator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/mediator/MediatorDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/memento/EmployeeMemento.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/memento/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/memento/CareTaker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/memento/MementoDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/observer/Subject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/observer/Observer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/observer/MessageStream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/observer/PhoneClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/observer/TableClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/observer/TabletClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/observer/ObserverDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/State.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/Fan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/StateDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/FanOffState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/FanMedState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/FanLowState.java" />
       </list>
     </option>
   </component>
@@ -288,10 +241,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="370" />
-    <option name="y" value="39" />
-    <option name="width" value="1932" />
-    <option name="height" value="1047" />
+    <option name="x" value="692" />
+    <option name="width" value="793" />
+    <option name="height" value="530" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -357,6 +309,60 @@
               <item name="KarelJRobot" type="b2602c69:ProjectViewProjectNode" />
               <item name="KarelJRobot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KarelJRobot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KarelJRobot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
+              <item name="state" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KarelJRobot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KarelJRobot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KarelJRobot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KarelJRobot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KarelJRobot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KarelJRobot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
+              <item name="visitor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KarelJRobot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KarelJRobot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -400,11 +406,11 @@
       <recent name="com.musala.training.karelJ" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.musala.training.design.patterns.behavioral.state" />
+      <recent name="com.musala.training.design.patterns.behavioral.observer" />
+      <recent name="com.musala.training.design.patterns.behavioral.mediator" />
+      <recent name="com.musala.training.design.patterns.behavioral.iterator" />
       <recent name="com.musala.training.design.patterns.behavioral.command" />
-      <recent name="com.musala.training.design.patterns.structural.composite" />
-      <recent name="com.musala.training.design.patterns.structural.bridge.bridge2" />
-      <recent name="com.musala.training.design.patterns.structural.bridge" />
-      <recent name="com.musala.training.design.patterns.structural.adapter" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -419,7 +425,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CommandDemo">
+  <component name="RunManager" selected="Application.StateDemo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module />
       <option name="HTML_USED" value="false" />
@@ -427,14 +433,14 @@
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="ChainOfResponsibilityDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.musala.training.design.patterns.behavioral.chain.of.responsibility.*" />
+          <option name="PATTERN" value="com.musala.training.design.patterns.behavioral.iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.musala.training.design.patterns.behavioral.chain.of.responsibility.ChainOfResponsibilityDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.musala.training.design.patterns.behavioral.iterator.IteratorDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -446,14 +452,14 @@
       <module name="KarelJRobot" />
       <envs />
     </configuration>
-    <configuration name="CommandDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MediatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.musala.training.design.patterns.behavioral.command.receiver.*" />
+          <option name="PATTERN" value="com.musala.training.design.patterns.behavioral.mediator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.musala.training.design.patterns.behavioral.command.CommandDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.musala.training.design.patterns.behavioral.mediator.MediatorDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -465,14 +471,14 @@
       <module name="KarelJRobot" />
       <envs />
     </configuration>
-    <configuration name="FacadeGoodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MementoDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.musala.training.design.patterns.structural.facade.*" />
+          <option name="PATTERN" value="com.musala.training.design.patterns.behavioral.memento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.musala.training.design.patterns.structural.facade.FacadeGoodDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.musala.training.design.patterns.behavioral.memento.MementoDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -484,14 +490,33 @@
       <module name="KarelJRobot" />
       <envs />
     </configuration>
-    <configuration name="TwitterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ObserverDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.musala.training.design.patterns.structural.proxy.*" />
+          <option name="PATTERN" value="com.musala.training.design.patterns.behavioral.observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.musala.training.design.patterns.structural.proxy.TwitterDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.musala.training.design.patterns.behavioral.observer.ObserverDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="KarelJRobot" />
+      <envs />
+    </configuration>
+    <configuration name="StateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.musala.training.design.patterns.behavioral.state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.musala.training.design.patterns.behavioral.state.StateDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -515,25 +540,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
-      <envs />
-    </configuration>
-    <configuration name="flyweightDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.musala.training.design.patterns.structural.flyweight.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.musala.training.design.patterns.structural.flyweight.flyweightDemo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="KarelJRobot" />
       <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -597,19 +603,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FacadeGoodDemo" />
-      <item index="1" class="java.lang.String" itemvalue="Application.flyweightDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TwitterDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ChainOfResponsibilityDemo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CommandDemo" />
+      <item index="0" class="java.lang.String" itemvalue="Application.IteratorDemo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MediatorDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MementoDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ObserverDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.StateDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CommandDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ChainOfResponsibilityDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TwitterDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.flyweightDemo" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FacadeGoodDemo" />
+        <item index="0" class="java.lang.String" itemvalue="Application.StateDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ObserverDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MementoDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MediatorDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.IteratorDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -678,6 +684,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -685,21 +692,21 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30108696" sideWeight="0.52132195" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30108696" sideWeight="0.48294243" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30108696" sideWeight="0.47867805" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27132195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27132195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.4978678" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.48933902" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.48720682" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -741,7 +748,7 @@
           <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="24" />
+      <option name="time" value="25" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -755,280 +762,6 @@
     <select />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/composite/MenuComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/decorator/Sandwich.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/decorator/SandwichDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/decorator/SimpleSandwich.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/decorator/DressingDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/decorator/MeatDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/decorator/DecoratorSandwichDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/decorator/DecoratorEverydayCemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar!/org/apache/derby/impl/jdbc/EmbedConnection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="651" column="66" lean-forward="false" selection-start-line="651" selection-start-column="66" selection-end-line="651" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/creational/singleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="30" column="28" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/facade/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#164#165#0" expanded="false" />
-            <element signature="e#189#190#0" expanded="false" />
-            <element signature="e#222#223#0" expanded="false" />
-            <element signature="e#250#251#0" expanded="false" />
-            <element signature="e#287#288#0" expanded="false" />
-            <element signature="e#320#321#0" expanded="false" />
-            <element signature="e#372#373#0" expanded="false" />
-            <element signature="e#416#417#0" expanded="false" />
-            <element signature="e#447#448#0" expanded="false" />
-            <element signature="e#474#475#0" expanded="false" />
-            <element signature="e#514#515#0" expanded="false" />
-            <element signature="e#546#547#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/facade/facadeBadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/facade/JdbcFacade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/facade/FacadeGoodDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/flyweight/flyweightDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="6" column="44" lean-forward="false" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/flyweight/Catalog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#493#494#0" expanded="false" />
-            <element signature="e#528#529#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/flyweight/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding>
-            <element signature="e#299#300#0" expanded="false" />
-            <element signature="e#390#391#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/flyweight/InventorySystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#344#351#0" expanded="false" />
-            <element signature="e#706#707#0" expanded="false" />
-            <element signature="e#785#786#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/flyweight/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-          <folding>
-            <element signature="e#191#192#0" expanded="false" />
-            <element signature="e#223#224#0" expanded="false" />
-            <element signature="e#255#256#0" expanded="false" />
-            <element signature="e#282#283#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/proxy/ITwitterService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="49" column="21" lean-forward="false" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/proxy/TwitterServiceStub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#187#188#0" expanded="false" />
-            <element signature="e#234#235#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/proxy/TwitterExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/proxy/TwitterServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="48" column="34" lean-forward="false" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1799#1800#0" expanded="false" />
-            <element signature="e#1842#1843#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/proxy/SecurityProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#315#316#0" expanded="false" />
-            <element signature="e#345#346#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/structural/proxy/TwitterDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/t.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/chain/of/responsibility/RequestType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/chain/of/responsibility/Request.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-          <folding>
-            <element signature="e#382#383#0" expanded="false" />
-            <element signature="e#415#416#0" expanded="false" />
-            <element signature="e#444#445#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/chain/of/responsibility/VP.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1080,7 +813,7 @@
         <state relative-caret-position="680">
           <caret line="45" column="8" lean-forward="true" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1090,10 +823,10 @@
         <state relative-caret-position="34">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="false" />
+            <element signature="e#197#198#0" expanded="false" />
+            <element signature="e#236#237#0" expanded="false" />
+            <element signature="e#291#292#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1103,10 +836,10 @@
         <state relative-caret-position="51">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="false" />
+            <element signature="e#212#213#0" expanded="false" />
+            <element signature="e#251#252#0" expanded="false" />
+            <element signature="e#308#309#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1127,8 +860,8 @@
         <state relative-caret-position="0">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="false" />
+            <element signature="e#345#346#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1151,10 +884,10 @@
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="false" />
+            <element signature="e#268#269#0" expanded="false" />
+            <element signature="e#320#321#0" expanded="false" />
+            <element signature="e#353#354#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1164,10 +897,10 @@
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="false" />
+            <element signature="e#318#319#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#391#392#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1212,8 +945,8 @@
         <state relative-caret-position="34">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="false" />
+            <element signature="e#456#457#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1237,7 +970,225 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/command/receiver/Device.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#167#168#0" expanded="false" />
+            <element signature="e#194#195#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/creational/builder/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-417">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/creational/builder/BuilderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="44" column="17" lean-forward="false" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/iterator/IteratorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="92" column="47" lean-forward="false" selection-start-line="92" selection-start-column="18" selection-end-line="92" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/iterator/BikeRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="55" lean-forward="true" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+          <folding>
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1048#1049#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/mediator/Mediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#444#445#0" expanded="false" />
+            <element signature="e#477#478#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/mediator/TurnOffAllLightsCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="e#291#292#0" expanded="false" />
+            <element signature="e#331#332#0" expanded="false" />
+            <element signature="e#374#375#0" expanded="false" />
+            <element signature="e#417#418#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/mediator/TurnOnAllLightsCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="e#289#290#0" expanded="false" />
+            <element signature="e#329#330#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/mediator/MediatorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="61" lean-forward="false" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="79" column="26" lean-forward="false" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/memento/EmployeeMemento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/memento/CareTaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding>
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/memento/MementoDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/observer/TabletClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/memento/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/observer/MessageStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/observer/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/strategy/StrategyDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
@@ -1245,14 +1196,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/command/receiver/Device.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/observer/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/observer/ObserverDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/observer/PhoneClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/template/TemplateDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/visitor/VisitorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/Fan.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <caret line="32" column="27" lean-forward="false" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
           <folding>
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/FanOffState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/FanMedState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/FanLowState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/musala/training/design/patterns/behavioral/state/StateDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
