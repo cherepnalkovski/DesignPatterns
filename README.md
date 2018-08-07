@@ -1,5 +1,4 @@
-# DesignPatterns
-Design patterns examples + lambda + stream api
+# Design Patterns, Lambda, Stream API
 
 Short example for all design paterns.
 + Test driven example for factory design pattern implemented throug KarelJ Robot
