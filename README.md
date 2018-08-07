@@ -1,4 +1,4 @@
-# KarelJ
+# DesignPatterns
 Design patterns examples + lambda + stream api
 
 Short example for all design paterns.
